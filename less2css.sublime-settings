@@ -1,0 +1,5 @@
+{
+    "outputDir": "./css/",
+    "autoCompile": true,
+    "minify": false
+}
