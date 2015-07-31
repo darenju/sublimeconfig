@@ -16,4 +16,4 @@ My color scheme is based off Peacock. I just modified the comments color because
 
 ## Keymaps
 
-`CMD+N` is mapped to AdvancedNewFile. Opening a new tab is done with `CMD+ALT+TAB`.
+`⌘+N` is mapped to AdvancedNewFile. Opening a new tab is done with `⌘+⌥+TAB`.
