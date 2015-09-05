@@ -1,35 +1,51 @@
 {
-  "bold_folder_labels": true,
-  "color_scheme": "Packages/User/Peacock.tmTheme",
-  "ensure_newline_at_eof_on_save": true,
-  "fade_fold_buttons": false,
-  "folder_exclude_patterns":
-  [
-    ".svn",
-    ".git",
-    ".hg",
-    "CVS",
-    "node_modules"
-  ],
-  "font_face": "Monaco",
-  "highlight_line": true,
-  "highlight_modified_tabs": true,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "open_files_in_new_window": false,
-  "overlay_scroll_bars": true,
-  "scroll_past_end": true,
-  "shift_tab_unindent": true,
-  "show_line_endings": true,
-  "soda_classic_tabs": true,
-  "tab_size": 2,
-  "theme": "Soda Dark 3.sublime-theme",
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true,
-  "use_tab_stops": true,
-  "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
-  "word_wrap": true
+	"alwas_prompt_for_file_reload": true,
+	"always_show_minimap_viewport": true,
+	"animation_enabled": false,
+	"bold_folder_labels": true,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_face": "Monaco",
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options": ["draw_normal", "draw_active"],
+	"line_padding_top": 1,
+	"line_padding_bottom": 1,
+	"match_brackets_angle": true,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": true,
+	"remember_full_screen": true,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"soda_classic_tabs": true,
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_fullscreen": true,
+	"use_tab_stops": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
+	"word_wrap": true
 }
-
